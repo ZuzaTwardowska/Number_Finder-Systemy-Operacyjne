@@ -1,7 +1,3 @@
-//Oswiadczam, ze niniejsza praca stanowiaca podstawe do uznania
-//osiagniecia efektow uczenia sie z przedmiotu SOP zostala wykonana
-//przeze mnie samodzielnie.
-//Zuzanna Twardowska 305913
 #define _XOPEN_SOURCE 500
 #define _GNU_SOURCE
 #include <stddef.h>
